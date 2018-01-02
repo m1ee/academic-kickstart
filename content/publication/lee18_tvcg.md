@@ -10,7 +10,7 @@
 # 6 = Book chapter
 publication_types = ["2"]
 abstract = ""
-authors = ["**Myungho Lee**", "Gerd Bruder", "Tobias Höllerer","Greg Welch"]
+authors = ["**Myungho Lee**", "Gerd Bruder", "Tobias Höllerer", "Greg Welch"]
 date = "2018-3-19"
 image = ""
 image_preview = ""
