@@ -167,11 +167,11 @@ defaultContentLanguageInSubdir = false
     'Uncategorized',  # 0
     'Conference paper',  # 1
     'Journal article',  # 2
-    'Poster', #3
-    # 'Manuscript',  # 3
-    # 'Report',  # 4
-    # 'Book',  # 5
-    # 'Book section'  # 6
+    # 'Poster', #3
+    'Manuscript',  # 3
+    'Report',  # 4
+    'Book',  # 5
+    'Book section'  # 6
   ]
 
   # Configuration of talk pages.
