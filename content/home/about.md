@@ -30,10 +30,10 @@ weight = 5
   course = "BSc in Electrical Engineering"
   institution = "Ajou University"
   year = 2007
- 
+
 +++
 
-# Biography
+# About me
 
 Hi! I’m Myungho Lee, a Ph.D. candidate in Computer Science at the University of Central Florida. I am also a member of Synthetic Reality Lab, where I spend most of my time playing with cool VR/AR headsets as well as various positional/biometric tracking devices. Thanks to my advisor, Dr. Greg Welch, I’ve been able to get hands-on experiences on latest devices for VR/AR.
 
