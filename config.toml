@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "coffee"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -63,8 +63,8 @@ defaultContentLanguageInSubdir = false
   address = ""
   office_hours = ""
   phone = ""
-  skype = ""
-  telegram = ""
+  skype = "myungho@knights.ucf.edu"
+  telegram = "myungholee"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -167,16 +167,17 @@ defaultContentLanguageInSubdir = false
     'Uncategorized',  # 0
     'Conference paper',  # 1
     'Journal article',  # 2
-    'Manuscript',  # 3
-    'Report',  # 4
-    'Book',  # 5
-    'Book section'  # 6
+    'Poster', #3
+    # 'Manuscript',  # 3
+    # 'Report',  # 4
+    # 'Book',  # 5
+    # 'Book section'  # 6
   ]
 
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -217,22 +218,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:myungho@knights.ucf.edu"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+  # [[params.social]]
+  #   icon = "twitter"
+  #   icon_pack = "fa"
+  #   link = "//twitter.com/GeorgeCushen"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.com/citations?user=g4G1zHcAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/myungho-lee"
 
 
 # Navigation Links
@@ -253,20 +254,20 @@ defaultContentLanguageInSubdir = false
   url = "#publications_selected"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+# [[menu.main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 4
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+# [[menu.main]]
+#   name = "Teaching"
+#   url = "#teaching"
+#   weight = 5
 
 [[menu.main]]
   name = "Contact"
