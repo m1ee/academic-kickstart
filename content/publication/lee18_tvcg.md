@@ -11,7 +11,7 @@
 publication_types = ["2"]
 abstract = ""
 authors = ["**Myungho Lee**", "Gerd Bruder", "Tobias Höllerer", "Greg Welch"]
-date = "2018-3-19"
+date = "2018-03-19"
 image = ""
 image_preview = ""
 math = false
