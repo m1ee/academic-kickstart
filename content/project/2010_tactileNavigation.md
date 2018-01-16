@@ -9,7 +9,7 @@ title = "Non-visual Navigation Guide"
 summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "vibrotactile2.jpg"
+image_preview = "thumbnail/vibrotactile.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
