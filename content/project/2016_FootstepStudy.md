@@ -1,19 +1,19 @@
 +++
 # Date this page was created.
-date = "2017-09-01"
+date = "2016-09-01"
 
 # Project title.
-title = "Collision Avoidance in AR"
+title = "Footstep Study"
 
 # Project summary to display on homepage.
 summary = "summary information"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "thumbnail/FoVProxemics.jpg"
+image_preview = "thumbnail/FootstepStudy.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["research", "augmented reality", "field of view", "footstep"]
+tags = ["research", "virtual reality", "footstep"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

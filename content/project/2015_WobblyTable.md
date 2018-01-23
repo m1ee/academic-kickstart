@@ -9,7 +9,7 @@ title = "Wobbly Table"
 summary = "summary information"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "thumbnail/wobblytable.jpg"
+image_preview = "thumbnail/WobblyTable.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

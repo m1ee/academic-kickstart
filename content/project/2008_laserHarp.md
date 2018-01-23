@@ -1,7 +1,7 @@
 +++
 # Date this page was created.
 date = "2009-12-12"
-
+active = false
 # Project title.
 title = "Laser Harp"
 
