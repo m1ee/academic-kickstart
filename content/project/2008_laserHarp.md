@@ -9,11 +9,11 @@ title = "Laser Harp"
 summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "laserharp.jpg"
+image_preview = "thumbnail/laserharp2.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["other"]
+tags = ["other", "interactive art", "laser harp"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-# image = "/headers/laserharp_h.png"
+image = "/headers/laserharp_h.png"
 #caption = "My caption :smile:"
 
 +++
