@@ -4,17 +4,17 @@ date = "2009-12-12"
 
 active = false
 # Project title.
-title = "E-ray: a portable projector-based AR pet"
+title = "E-ray"
 
 # Project summary to display on homepage.
-summary = ""
+summary = "a portable projector-based AR pet"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "eray3.jpg"
+image_preview = "thumbnail/eray.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["other"]
+tags = ["other","concept"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
