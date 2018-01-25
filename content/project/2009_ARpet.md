@@ -24,7 +24,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/h_arpet.png"
+#image = "headers/h_arpet.png"
 #caption = "My caption :smile:"
 
 +++
