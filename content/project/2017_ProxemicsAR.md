@@ -27,3 +27,8 @@ image = "headers/bubbles-wide.jpg"
 caption = "My caption :smile:"
 
 +++
+{{< youtube hgYCdBMN9_M >}}
+The small augmented visual region of optical see-through HMDs can lead to an information conflict between the central and peripheral vision.
+We examined the effects of such visual information conflict on human locomotion in the proximity of a virtual human (VH) as well as a potential solution based on vibrotactile feedback.
+In the study, we controlled view condition, footstep vibration, VH behavior and compared the users' collision avoidance behavior for VH with those for a real human.
+Results showed significant effects of view condition on the behavior and benefits of vibrotactile feedback on user's perception on the VH.
