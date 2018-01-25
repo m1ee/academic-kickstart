@@ -3,10 +3,10 @@
 date = "2017-09-01"
 
 # Project title.
-title = "Collision Avoidance in AR"
+title = "Effects of Unaugmented Periphery and Vibrotactile Feedback on Proxemics with Virtual Humans in AR"
 
 # Project summary to display on homepage.
-summary = "summary information"
+#summary = "summary information"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "thumbnail/FoVProxemics.jpg"
