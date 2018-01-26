@@ -7,7 +7,7 @@ active = false
 title = "E-ray"
 
 # Project summary to display on homepage.
-summary = "a portable projector-based AR pet"
+summary = "Concept"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "thumbnail/eray.jpg"

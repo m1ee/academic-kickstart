@@ -27,6 +27,6 @@ math = false
 #caption = "My caption :smile:"
 
 +++
-{{< youtube if-TN_mn7DI >}}
-
 In this class project, I suggest a novel multimodal 3d user interaction for object manipulation. This method utilizes a user’s muscle activity in a dominant forearm along with 3d positional information. The combination of muscle activity and positional tracking data makes a natural and unobtrusive interface for 3d object manipulation. To evaluate efficacy of our method, we devised a 3d object matching game, which covers “selection and manipulation” and “system control” aspects of 3d interaction techniques.
+
+{{< youtube if-TN_mn7DI >}}

@@ -27,12 +27,15 @@ math = false
 #caption = "My caption :smile:"
 
 +++
-{{< youtube 1Q1CFtqNBHM >}}
-
+### Mediated Physicality
 The concept of *Mediated Physicality* aims to induce an illusion from users to regard a VH being able to affect them physically, therefore causing more realistic behaviors, but without direct interaction.
 For that we propose to make a use of the surrounding environment where the primary interaction takes place and the interaction between the surrounding environment with a virtual human (VH).
-In other words, instead directly perceiving the VH's physicality, users will perceive outcomes of the VH's actions on the environment, i.e., the outcomes are mediated. Subtle movements of the real-virtual table ([Wobbly Table](/project/2015_wobblytable/)), footstep vibrations via the shared floor ([Effect of Vibrotactile feedback via a floor](/project/2016_footstepstudy/)) are the examples of the mediated outcomes.
-
+In other words, instead directly perceiving the VH's physicality, users will perceive outcomes of the VH's actions on the environment, i.e., the outcomes are mediated. Subtle movements of the real-virtual table ([Wobbly Table](/project/2015_wobblytable/)), footstep vibrations via the shared floor ([Effect of Vibrotactile Feedback via a Floor](/project/2016_footstepstudy/)) are the examples of the mediated outcomes.
 
 In such mediation, we believe that the *synchronization* between the actions and outcomes and the *physicality of the mediator* are important factors for the *mediated physicality*.
 Our assumption is that when people perceive the mediated outcomes synchronized with a VH's actions, then they would naturally attribute perceived outcomes to the VH's actions---as similar to sensorimotor integration could induce the illusion of body ownership---, finally physicality of the mediator would be transferred---to some degree, if not all---to the VH.
+
+[Download PDF](/files/pdf/2018_ieeevr_dc_draft.pdf)
+
+### Video
+{{< youtube 1Q1CFtqNBHM >}}

@@ -27,6 +27,9 @@ math = false
 #caption = ""
 
 +++
+TBA
+
+### Video
 {{< youtube E899UohcpRw >}}
 
-There are limitations when it comes to tracking firefighters. Often the firefighters must work in indoors and the GPS signal can be weak. The foundation systems can be destroyed in some cases leading to difficulty in using an existing position tracking system to locate one. In such cases, Inertial Navigation System is more appropriate. However, the usage of Inertial Navigation System on pedestrians leads to accumulative errors. Therefore there is a need to calculate each stride and steps in order to prevent anticipated problems.
+### Image

@@ -33,6 +33,8 @@ We examined the effects of such visual information conflict on human locomotion 
 In the study, we controlled view condition, footstep vibration, VH behavior and compared the users' collision avoidance behavior for VH with those for a real human.
 Results showed significant effects of view condition on the behavior and benefits of vibrotactile feedback on user's perception on the VH.
 
+[Download PDF](/files/pdf/2018_ieeevr_fovproxemics_pre.pdf)
+
 ### Video
 {{< youtube hgYCdBMN9_M >}}
 
