@@ -3,10 +3,10 @@
 date = "2017-09-01"
 
 # Project title.
-#title = "Effects of Unaugmented Periphery and Vibrotactile Feedback on Proxemics with Virtual Humans in AR"
+title = "Proxemics with Virtual Human in AR"
 
 # Project summary to display on homepage.
-summary = "Effects of Unaugmented Periphery and Vibrotactile Feedback on Proxemics with Virtual Humans in AR"
+summary = "Accepted for IEEE VR 2018"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "thumbnail/FoVProxemics.jpg"
@@ -27,8 +27,13 @@ math = false
 #caption = "My caption :smile:"
 
 +++
-{{< youtube hgYCdBMN9_M >}}
+### Abstract
 The small augmented visual region of optical see-through HMDs can lead to an information conflict between the central and peripheral vision.
 We examined the effects of such visual information conflict on human locomotion in the proximity of a virtual human (VH) as well as a potential solution based on vibrotactile feedback.
 In the study, we controlled view condition, footstep vibration, VH behavior and compared the users' collision avoidance behavior for VH with those for a real human.
 Results showed significant effects of view condition on the behavior and benefits of vibrotactile feedback on user's perception on the VH.
+
+### Video
+{{< youtube hgYCdBMN9_M >}}
+
+### Image
