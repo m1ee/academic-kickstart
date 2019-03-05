@@ -6,7 +6,7 @@ date = "2018-01-20"
 title = "Visually Mediated Physicality"
 
 # Project summary to display on homepage.
-summary = "Work-in-progress"
+summary = "IEEE VR 2018 DC"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "thumbnail/mediatedphysicality.jpg"

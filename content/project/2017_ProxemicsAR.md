@@ -6,7 +6,7 @@ date = "2017-09-01"
 title = "Proxemics with Virtual Human in AR"
 
 # Project summary to display on homepage.
-summary = "Accepted for IEEE VR 2018"
+summary = "IEEE VR 2018"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "thumbnail/FoVProxemics.jpg"
