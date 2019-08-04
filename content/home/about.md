@@ -35,7 +35,7 @@ weight = 5
 
 # About me
 
-Hi! I’m Myungho Lee, a Ph.D. candidate in Computer Science at the [University of Central Florida (UCF)](https://www.ucf.edu). I am also a member of [Synthetic Reality Lab](https://sreal.ucf.edu), where I spend most of my time playing with cool VR/AR headsets as well as various positional/biometric tracking devices. Thanks to my advisor, [Dr. Greg Welch](https://sreal.ucf.edu/people/welch/), I’ve been able to get hands-on experiences on latest devices for VR/AR.
+Hi! I’m Myungho Lee, a fresh Ph.D. in Computer Science at the [University of Central Florida (UCF)](https://www.ucf.edu). I am also a member of [Synthetic Reality Lab](https://sreal.ucf.edu), where I spend most of my time playing with cool VR/AR headsets as well as various positional/biometric tracking devices. Thanks to my advisor, [Dr. Greg Welch](https://sreal.ucf.edu/people/welch/), I’ve been able to get hands-on experiences on latest devices for VR/AR.
 
 My recent research focuses on making a more realistic experience in interactions with virtual humans. Particularly I’m interested in inducing Physicality Illusion — making people feel virtual entities as real – for the non-physical virtual humans using shared objects in the shared environment with virtual humans. I am also interested in measuring/analyzing physiological/behavioral responses in VR/AR.
 
